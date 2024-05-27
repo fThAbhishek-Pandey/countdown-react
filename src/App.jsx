@@ -18,7 +18,7 @@ function App() {
   }
   return (
     <>
-       <h2>Khushi is good Girl</h2>
+       <h2>Khushi Shukla is good Girl</h2>
        <h2>counter Value : <span>{counter}</span></h2>
        <button onClick={addValue}>Add</button>
        <button onClick={delValue}>Delete</button>
